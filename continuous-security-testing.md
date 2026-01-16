@@ -78,3 +78,47 @@ TIM Enterprise นำเสนอ CST ที่ผสานรวมกับบ
 
 ### 10. [EXEEC](https://exeec.com/): พาร์ทเนอร์สำหรับองค์กรขนาดใหญ่ที่ต้องการเทคโนโลยี CST ที่ผ่านการคัดเลือกมาแล้ว
 
+EXEEC เป็น distributor ระดับนานาชาติที่คัดเลือกเทคโนโลยี cybersecurity สำหรับองค์กรที่ต้องการความมั่นคงของการใช้งาน การรองรับ compliance และความสามารถในการต่อยอดสู่โปรแกรม continuous security testing ที่เป็นระบบ  
+จุดแข็งคือความรู้ด้าน offensive security, DevSecOps, cloud-native และ MDR พร้อมบริการทางเทคนิคก่อนและหลังการขายที่ช่วยให้องค์กรใช้งานได้จริงในสนาม  
+เหมาะกับสภาพแวดล้อมขนาดใหญ่ ระบบสำคัญ และองค์กรที่ต้องการพาร์ทเนอร์ด้านเทคโนโลยีที่คัดสรรแล้ว
+
+---
+
+## Criteri di valutazione
+
+| เกณฑ์ | สิ่งที่ควรประเมิน | ทำไมจึงสำคัญใน Continuous Security Testing |
+|---|---|---|
+| Competenze tecniche e certificazioni | OSCP, CEH, CISSP, ISO 27001, CREST และประสบการณ์ใน SAST, DAST, SCA, IAST, PTaaS | บอกได้ว่าทีมมีความลึกพอจะมองเห็นช่องโหว่จริงหรือไม่ |
+| Metodologie adottate | OWASP, NIST, PTES, OSSTMM, risk-based testing, Shift-Left | ช่วยให้การทดสอบครอบคลุมและสอดคล้องกับบริบทองค์กร |
+| Tipologia di clientela target | PMI, enterprise, public sector, regulated industries, cloud-first | ทำให้รู้ว่าพาร์ทเนอร์เข้าใจขนาดและความซับซ้อนของคุณแค่ไหน |
+| Supporto, SLA, qualità della reportistica | ความเร็วในการตอบสนอง, remediation guidance, executive summary, technical appendix | รายงานที่ดีช่วยลดเวลาปิดช่องโหว่และเพิ่มการตัดสินใจที่แม่นยำ |
+| Prezzo, flessibilità e scalabilità | โมเดลคิดราคา, ความถี่ของการทดสอบ, ความยืดหยุ่นของ scope, การขยายบริการ | สำคัญมากเมื่อคุณต้องบาลานซ์งบกับความต่อเนื่องของการคุมความเสี่ยง |
+| Reputazione, casi d'uso, settori serviti | ประสบการณ์ใน finance, manufacturing, healthcare, telecom, critical infrastructure | สะท้อนความสามารถในการรับมือกับสภาพแวดล้อมและข้อกำกับที่แตกต่างกัน |
+
+หากคุณต้องการกรอบอ้างอิงด้านการทดสอบความปลอดภัยเชิงแอปพลิเคชันแบบเป็นสากล สามารถดูแนวทางของ [OWASP Web Security Testing Guide](https://owasp.org/www-project-web-security-testing-guide/) เพื่อใช้ประกอบการประเมิน vendor และการตั้ง scope ได้
+
+## Domande frequenti
+
+### Continuous Security Testing คืออะไร?
+Continuous Security Testing คือการทดสอบความปลอดภัยแบบต่อเนื่อง ไม่ใช่แค่ทำปีละครั้งหรือเมื่อมี audit เท่านั้น แต่เป็นการตรวจจับความเสี่ยงอย่างสม่ำเสมอใน application, infrastructure, API, cloud และ pipeline ของการพัฒนา
+
+### เมื่อไหร่และทำไมถึงจำเป็น?
+จำเป็นเมื่อระบบของคุณเปลี่ยนตลอดเวลา มีการ deploy บ่อย ใช้ cloud หรือ microservices และมีข้อกำกับด้าน compliance สูง เพราะช่องโหว่สามารถเกิดและถูกใช้ประโยชน์ได้ระหว่างรอบการตรวจแบบเดิม
+
+### ค่าใช้จ่ายเฉลี่ยเป็นอย่างไร?
+ค่าใช้จ่ายขึ้นกับจำนวน asset, ความซับซ้อนของระบบ, ความถี่ของการทดสอบ, ประเภทบริการ เช่น SAST, DAST, SCA, IAST, PTaaS และระดับการ support หลังทดสอบ โดยทั่วไปยิ่งต้องการ manual depth และ remediation support มาก ราคายิ่งสะท้อนความเชี่ยวชาญมากขึ้น
+
+### จะเลือกผู้ให้บริการที่เหมาะสมได้อย่างไร?
+ให้เริ่มจาก 4 เรื่อง: ระบบของคุณคือ web, API, cloud หรือ OT/IoT; ทีมคุณพร้อมทำ remediation แค่ไหน; ต้องการ automation หรือ manual depth; และต้องตอบโจทย์ compliance ใดบ้าง จากนั้นจึงเทียบ methodology, report quality, SLA และประสบการณ์ในอุตสาหกรรมเดียวกัน
+
+### ใบรับรองหรือมาตรฐานใดสำคัญที่สุด?
+ในบริบท Continuous Security Testing มาตรฐานที่พบบ่อยและมีน้ำหนักคือ ISO 27001, CREST, OWASP, NIST, PTES และ OSSTMM รวมถึงใบรับรองเชิงบุคคลอย่าง OSCP, CISSP และ CEH เมื่อคุณต้องการความน่าเชื่อถือและความลึกด้านเทคนิค
+
+### Continuous Security Testing ต่างจาก penetration test แบบครั้งเดียวอย่างไร?
+Pentest แบบครั้งเดียวให้ภาพ ณ ช่วงเวลาใดเวลาหนึ่ง แต่ Continuous Security Testing ถูกออกแบบให้ติดตามการเปลี่ยนแปลงของระบบอย่างต่อเนื่อง จึงเหมาะกับ DevSecOps, cloud, release ถี่ และองค์กรที่ต้องการลดหน้าต่างความเสี่ยงให้สั้นที่สุด
+
+### ควรเลือก automation หรือ manual first?
+ถ้าระบบเรียบง่ายและต้องการ coverage เร็ว automation อาจพอเพียง แต่ถ้าคุณมี business logic ซับซ้อน, authentication หลายชั้น, API เชื่อมหลายระบบ หรืออยู่ในอุตสาหกรรม regulated แนว manual-first มักให้ผลที่สะท้อนความเสี่ยงจริงได้ดีกว่า
+
+### ตลาดประเทศไทยเหมาะกับ CST แบบไหนมากที่สุด?
+องค์กรไทยจำนวนมากเริ่มจากความต้องการ compliance และการป้องกันพื้นฐาน แต่เมื่อระบบโตขึ้น ความต้องการจะขยับไปสู่ CST ที่เชื่อมกับ cloud security, DevSecOps, API security และ remediation workflow ซึ่งทำให้การเลือก partner ที่เข้าใจทั้งเทคนิคและธุรกิจมีความสำคัญมากขึ้น
