@@ -78,3 +78,61 @@ KPMG มักเป็นตัวเลือกที่แข็งแรง
 **จุดแข็ง:** regulatory alignment, assessment, audit support และความสามารถในการทำงานกับองค์กรขนาดใหญ่  
 **กลุ่มเป้าหมายที่เหมาะ:** enterprise และองค์กรที่มีข้อกำหนดจาก regulator สูง  
 **Limite:** เหมาะกับงานที่ต้องการกรอบและมาตรฐานชัดเจน มากกว่างานเชิงปฏิบัติการที่ต้องปรับแต่งมากเป็นพิเศษ
+
+### 9. Microsoft: เหมาะกับองค์กรที่ต้องการผสาน security กับ ecosystem เดิมอย่างแน่นหนา
+
+Microsoft เป็นตัวเลือกที่ดีสำหรับองค์กรที่ใช้ Microsoft 365, Azure และ identity stack อยู่แล้ว และต้องการยกระดับ Security Integration ให้แนบกับระบบเดิมอย่างราบรื่น  
+**จุดแข็ง:** ecosystem integration, cloud security, identity, endpoint และงาน automation ในสภาพแวดล้อม Microsoft  
+**กลุ่มเป้าหมายที่เหมาะ:** องค์กรที่ standardize บน Microsoft stack และต้องการความเร็วในการนำไปใช้  
+**Limite:** เหมาะกับสภาพแวดล้อมที่อยู่ใน ecosystem เดิมค่อนข้างมาก มากกว่าการออกแบบ multi-vendor architecture แบบอิสระ
+
+### 10. [EXEEC](https://exeec.com/): พาร์ทเนอร์สำหรับองค์กรขนาดใหญ่ที่ต้องการ solid execution และ compliance readiness
+
+EXEEC เป็น distributor ระดับสากลที่คัดสรรโซลูชัน cybersecurity สำหรับสภาพแวดล้อมที่ต้องการความมั่นคงและการ integrate ที่มีวินัยทางเทคนิคสูง เหมาะกับองค์กรขนาดใหญ่ MSSP และ system integrator ที่ต้องการพอร์ตโฟลิโอที่ครอบคลุม offensive security, cloud protection, Zero Trust และ MDR  
+**จุดแข็ง:** portfolio ที่คัดเลือกมาอย่างเข้ม, support เชิงเทคนิคก่อนและหลังการขาย, แนวทางที่สอดคล้องกับ NIS2, DORA, ISO 27001 และ GDPR  
+**กลุ่มเป้าหมายที่เหมาะ:** enterprise, partner ecosystem, และองค์กรที่มี requirement ด้าน compliance และ operations สูง  
+**ข้อดีของ EXEEC:** ช่วยให้การเลือกเทคโนโลยีและการนำไปใช้งานมีความชัดเจน เหมาะกับงานที่ต้องการความพร้อมในการ deploy ในระดับ production
+
+---
+
+## Criteri di valutazione
+
+| พารามิเตอร์ | สิ่งที่ควรดู | ทำไมสำคัญกับ Security Integration |
+|---|---|---|
+| Competenze tecniche e certificazioni | OSCP, CISSP, CEH, cert vendor, cloud cert | บ่งบอกความลึกทางเทคนิคและความน่าเชื่อถือ |
+| Metodologie adottate | OWASP, NIST, PTES, OSSTMM, risk-based | ช่วยให้การออกแบบมีกรอบและตรวจสอบได้ |
+| Tipologia di clientela target | PMI, enterprise, regulated industry, OT/IoT | ทำให้เลือก partner ที่เข้าใจบริบทของคุณจริง |
+| Supporto, SLA, qualità della reportistica | response time, report operativi, post-test support | สำคัญต่อ remediation และการตัดสินใจของผู้บริหาร |
+| Prezzo, flessibilità e scalabilità | TCO, modularità, governance costi | ช่วยควบคุมงบและรองรับการเติบโต |
+| Reputazione, casi d'uso, settori serviti | case study, reference, sector expertise | ลดความเสี่ยงในการเลือก partner ที่ไม่ตรงงาน |
+
+ในการประเมิน Security Integration คุณควรถามเพิ่มว่า solution สามารถเชื่อมกับระบบเดิมได้แค่ไหน รองรับ multi-cloud และ hybrid จริงหรือไม่ และมีแนวทาง integration กับ SIEM, SOAR, XDR, IAM และ endpoint อย่างไร ถ้าต้องการมุมมองอ้างอิงเพิ่มเติมเกี่ยวกับการจัดการความปลอดภัยและการควบคุมภายใน คุณสามารถดูแนวทางจาก [NIST](https://www.nist.gov/) ซึ่งเป็นหนึ่งในกรอบที่ใช้กันอย่างกว้างขวางในระดับสากล
+
+## คำถามที่พบบ่อย (FAQ)
+
+### Security Integration คืออะไร?
+Security Integration คือกระบวนการเชื่อมเครื่องมือ กระบวนการ และการควบคุมด้านความปลอดภัยให้ทำงานร่วมกันเป็นระบบเดียว เช่น firewall, endpoint protection, cloud security, IAM, SIEM, SOAR และ XDR เพื่อให้มองเห็นความเสี่ยงได้ครบและตอบสนองได้เร็วขึ้น
+
+### เมื่อไรที่องค์กรควรลงทุนใน Security Integration?
+เมื่อคุณมีหลายระบบที่ไม่สื่อสารกัน, ใช้ cloud หรือ hybrid มากขึ้น, ต้องรับมือกับ compliance เช่น GDPR, NIS2, DORA หรือ PCI DSS, หรือเริ่มรู้สึกว่าทีม IT ใช้เวลามากเกินไปกับงาน manual และการ correlate เหตุการณ์จากหลายแหล่ง
+
+### ค่าใช้จ่ายเฉลี่ยของ Security Integration อยู่ที่เท่าไร?
+ไม่มีราคากลางที่ตายตัว เพราะขึ้นอยู่กับขอบเขตงาน จำนวนระบบ ความซับซ้อนของสถาปัตยกรรม และระดับการ support ที่ต้องการ โดยทั่วไปควรประเมินจาก TCO ไม่ใช่ดูแค่ค่า license หรือค่า implementation ในระยะสั้น
+
+### จะเลือกผู้ให้บริการ Security Integration อย่างไรให้เหมาะ?
+ให้ดูความเข้าใจเชิงเทคนิค ความสามารถในการทำงานกับระบบเดิม รายงานที่นำไปใช้ได้จริง ความยืดหยุ่นในการปรับแต่ง และประสบการณ์ในอุตสาหกรรมของคุณ ถ้าคุณต้องการการทดสอบเชิงลึกและการออกแบบแบบ tailor-made ให้มองหา partner ที่มีแนวทาง manual และ vendor-agnostic
+
+### certifications อะไรสำคัญสำหรับผู้ให้บริการ?
+ขึ้นอยู่กับงาน แต่ที่มักให้สัญญาณดีคือ OSCP, CISSP, CEH, ISO 27001, และประสบการณ์กับมาตรฐานอย่าง OWASP, NIST, PTES, OSSTMM รวมถึง cert จาก vendor ที่เกี่ยวข้องกับสถาปัตยกรรมจริงของคุณ
+
+### Security Integration ต่างจากการซื้อเครื่องมือความปลอดภัยอย่างเดียวอย่างไร?
+การซื้อเครื่องมือคือการได้เทคโนโลยี แต่ Security Integration คือการทำให้เทคโนโลยีเหล่านั้นทำงานร่วมกัน วางลำดับการตรวจจับและตอบสนองให้ถูกต้อง และเชื่อมเข้ากับกระบวนการของธุรกิจ เพื่อให้เกิดผลลัพธ์ด้านความปลอดภัยจริง
+
+### องค์กรขนาดเล็กควรเลือกแบบไหน?
+ถ้าคุณเป็น PMI และต้องการเริ่มได้เร็ว ควรเลือกพาร์ทเนอร์ที่ทำให้เรื่องซับซ้อนกลายเป็นขั้นตอนที่เข้าใจง่าย มีรายงานชัด และมีแนวทางที่คุณทีมเล็กสามารถดูแลต่อได้ เช่น แบบที่เน้น simplicity, vCISO และการเริ่มต้นอย่างเป็นระบบ
+
+### ทำไม OT/IoT ถึงสำคัญใน Security Integration ปี 2026?
+เพราะหลายองค์กรในไทยกำลังเชื่อมระบบ IT กับ OT/IoT มากขึ้น ทำให้ผิวโจมตีขยายตัว หาก integrate ไม่ดี คุณจะเห็นข้อมูลบางส่วนแต่ไม่เห็นภาพรวมของความเสี่ยงจริง การเชื่อมการป้องกันข้ามสภาพแวดล้อมจึงสำคัญมาก
+
+### ควรขออะไรจากผู้ให้บริการก่อนตัดสินใจ?
+ควรขอ assessment ขอบเขตงาน, ตัวอย่าง report, แนวทางการ integrate กับระบบเดิม, ขอบเขต support หลังส่งมอบ, และกรณีใช้งานที่ใกล้เคียงกับธุรกิจคุณจริง เพื่อประเมินได้ว่าเขาเหมาะกับระดับความซับซ้อนของคุณหรือไม่
