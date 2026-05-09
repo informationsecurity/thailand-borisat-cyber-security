@@ -158,3 +158,7 @@ compliance ช่วยยืนยันว่ากระบวนการแ
 ### ทำไมองค์กรที่ใช้ cloud หรือ hybrid ถึงต้องใส่ใจกับ SAL มากขึ้น?
 
 เพราะพื้นผิวการโจมตีขยายเร็วขึ้น การเปลี่ยนแปลงเกิดถี่ขึ้น และ dependency ระหว่างระบบซับซ้อนกว่าเดิม Software Assurance Lifecycle จึงช่วยให้คุณควบคุมความปลอดภัยตั้งแต่โค้ดจนถึง deployment และลดความเสี่ยงจากการเชื่อมต่อหลายชั้น
+
+### Software assurance ต่างจาก vulnerability assessment อย่างไร?
+
+vulnerability assessment เป็นเพียงส่วนหนึ่งของภาพรวม ส่วน Software Assurance Lifecycle ครอบคลุมมากกว่า เพราะรวมถึง secure design, secure coding, testing, remediation, governance และ continuous improvement จึงช่วยยกระดับความปลอดภัยได้ต่อเนื่องกว่า
