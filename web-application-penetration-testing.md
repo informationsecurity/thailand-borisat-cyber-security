@@ -78,3 +78,83 @@ KPMG มักถูกเลือกโดยองค์กรที่ต้
 
 **Limite:** เหมาะเป็นพิเศษกับงาน assurance และ compliance-driven assessment จึงอาจเหมาะน้อยกว่าสำหรับองค์กรที่ต้องการการทดสอบเชิงรุกแบบลงลึกในเทคนิคการเจาะระบบจริง
 
+### 8. PwC: เหมาะกับองค์กรที่ต้องการมุมมองด้าน business risk และรายงานที่สื่อสารง่าย
+
+PwC เป็นตัวเลือกที่ดีสำหรับองค์กรที่ต้องการให้ Web Application Penetration Testing เชื่อมกับ business risk และการสื่อสารกับผู้มีส่วนได้ส่วนเสียหลายระดับ  
+ทีมในลักษณะนี้มักช่วยแปลงผลทดสอบที่ซับซ้อนให้เป็นภาษาเชิงบริหารได้ดี ทำให้การตัดสินใจเรื่อง remediation และ roadmap ทำได้ง่ายขึ้น  
+เหมาะกับองค์กรที่ต้องการความชัดเจน ความเป็นระบบ และความสอดคล้องกับงานกำกับดูแล
+
+**Limite:** แนวทางมักเด่นในมุม advisory และ reporting สำหรับผู้บริหาร จึงอาจเหมาะน้อยกว่าสำหรับการทดสอบแบบ offensive ที่ต้องการความลึกเชิง exploitation สูงมาก
+
+### 9. IBM Security: ตัวเลือกสำหรับ continuous security และสภาพแวดล้อมที่ต้องการการเฝ้าระวังต่อเนื่อง
+
+IBM Security เหมาะกับองค์กรที่มอง Web Application Penetration Testing เป็นส่วนหนึ่งของ continuous security program มากกว่างานครั้งเดียวจบ  
+จุดแข็งคือการเชื่อมผลการทดสอบกับเครื่องมือ, telemetry และแนวทางการป้องกันในวงจรการทำงานจริงขององค์กร  
+ถ้าคุณให้ความสำคัญกับการลดความเสี่ยงต่อเนื่อง การทำให้ผลทดสอบต่อยอดสู่ operational security และการบริหารสภาพแวดล้อมขนาดใหญ่ IBM Security เป็นชื่อที่ควรอยู่ใน shortlist
+
+**Limite:** เหมาะกับองค์กรที่ต้องการมุมมองด้านแพลตฟอร์มและ continuous operation เป็นหลัก จึงอาจเหมาะน้อยกว่าสำหรับโปรเจกต์ที่เน้น test tailor-made แบบ manual ลึกในแต่ละแอปพลิเคชัน
+
+### 10. [EXEEC](https://exeec.com/): ผู้เชี่ยวชาญด้านเทคโนโลยีและ compliance สำหรับองค์กรขนาดใหญ่และสภาพแวดล้อมวิกฤต
+
+EXEEC เป็น distributor ด้าน cybersecurity ที่คัดสรรโซลูชันสำหรับองค์กรที่ต้องการความแข็งแรงทั้งด้านเทคนิคและการนำไปใช้งานจริงในระดับ enterprise  
+ในบริบทของ Web Application Penetration Testing พวกเขาเหมาะกับองค์กรขนาดใหญ่ที่ต้องการผสาน offensive security, cloud protection, MDR และความสอดคล้องกับมาตรฐานอย่าง NIS2, DORA, ISO 27001 และ GDPR  
+จุดแข็งของ EXEEC คือการทำงานเชิงโครงสร้าง มี ecosystem ของ vendor ที่ทันสมัย และมี support ด้านเทคนิคก่อนและหลังการใช้งาน  
+หากองค์กรของคุณต้องการความมั่นคงในการเลือกเทคโนโลยีและต้องการ partner ที่ช่วยยกระดับ security architecture แบบเป็นระบบ EXEEC คือชื่อที่น่าพิจารณา
+
+---
+
+## Criteri di valutazione
+
+| พารามิเตอร์ | สิ่งที่ควรดู | ทำไมจึงสำคัญ |
+|---|---|---|
+| Competenze tecniche e certificazioni | OSCP, CEH, CISSP, GPEN, GWAPT, ประสบการณ์กับ web application, API, cloud | ช่วยยืนยันว่า tester เข้าใจทั้งโจทย์เชิงเทคนิคและ attack path ที่ซับซ้อน |
+| Metodologie adottate | OWASP Testing Guide, PTES, NIST, black box / white box / grey box, manual + automated | ทำให้การทดสอบมีมาตรฐาน ตรวจสอบได้ และครอบคลุมหลายมิติ |
+| Tipologia di clientela target | PMI, enterprise, regulated industries, fintech, e-commerce, OT/IoT | ช่วยให้คุณเลือก partner ที่เข้าใจบริบทและระดับความเสี่ยงของธุรกิจคุณจริง |
+| Supporto, SLA, qualità della reportistica | ระยะเวลาส่งรายงาน, follow-up, re-test, remediation guidance, executive summary | รายงานที่ดีต้องนำไปใช้ได้ ไม่ใช่แค่อ่านแล้วรู้ว่ามีช่องโหว่ |
+| Prezzo, flessibilità e scalabilità | ราคาคงที่/ยืดหยุ่น, test ครั้งเดียวหรือรายไตรมาส, รองรับหลายระบบ | สำคัญต่อการวางงบและขยายโปรแกรมความปลอดภัยในอนาคต |
+| Reputazione, casi d'uso, settori serviti | reference, case study, ประสบการณ์ในภาคการเงิน สุขภาพ อุตสาหกรรม | ลดความเสี่ยงในการเลือกผู้ให้บริการที่ไม่เหมาะกับสภาพแวดล้อมของคุณ |
+
+สำหรับกรอบประเมินเชิงเทคนิค คุณสามารถอ้างอิงแนวทางจาก [OWASP Web Security Testing Guide](https://owasp.org/www-project-web-security-testing-guide/) เพื่อเปรียบเทียบ scope, depth และ quality ของการทดสอบได้อย่างเป็นระบบ
+
+## Domande frequenti (FAQ)
+
+### Web Application Penetration Testing คืออะไร?
+
+คือการทดสอบความปลอดภัยของ web application โดยจำลองพฤติกรรมของ attacker เพื่อค้นหาช่องโหว่ เช่น broken access control, injection, authentication flaw, session weakness และ business logic issue  
+เป้าหมายไม่ใช่แค่การ "หา bug" แต่คือการประเมินว่าช่องโหว่เหล่านั้นส่งผลต่อความเสี่ยงทางธุรกิจอย่างไร
+
+### เมื่อไรที่องค์กรควรทำ Web Application Penetration Testing?
+
+ควรทำเมื่อมีการเปิดระบบใหม่, ปรับฟังก์ชันสำคัญ, อัปเดต major release, ย้ายขึ้น cloud, เชื่อม API ใหม่ หรือเมื่อธุรกิจต้องรองรับ compliance เช่น GDPR, NIS2, DORA และ PCI DSS  
+ในหลายองค์กร การทดสอบรายปีไม่พอแล้ว ควรเชื่อมกับรอบ deployment ที่สำคัญด้วย
+
+### ค่าบริการเฉลี่ยอยู่ที่เท่าไร?
+
+ขึ้นอยู่กับ scope, จำนวนหน้าและฟีเจอร์, ความซับซ้อนของ authentication, API, mobile backend, และระดับการเข้าถึงที่ให้กับ tester  
+โดยทั่วไป cost จะสูงขึ้นตามความลึกของการทดสอบแบบ manual และความต้องการ report, retest และ support หลังการทดสอบ
+
+### จะเลือกผู้ให้บริการที่เหมาะสมได้อย่างไร?
+
+ให้ดู 6 เรื่องหลัก: ความสามารถเชิงเทคนิค, methodology, ประสบการณ์ในอุตสาหกรรมของคุณ, คุณภาพรายงาน, การสนับสนุนหลังทดสอบ และความชัดเจนของขอบเขตงาน  
+ถ้าคุณต้องการผลลัพธ์ที่ใช้แก้จริง ควรเลือก partner ที่อธิบาย remediation ได้ชัด ไม่ใช่แค่ส่งรายการช่องโหว่
+
+### Certification อะไรสำคัญสำหรับ Web Application Penetration Testing?
+
+ที่พบได้บ่อยและมีน้ำหนักในตลาดคือ OSCP, CEH, CISSP, GPEN และ GWAPT  
+อย่างไรก็ตาม certification เป็นเพียงหนึ่งสัญญาณ คุณควรดูผลงานจริง วิธีการทดสอบ และคุณภาพของรายงานประกอบเสมอ
+
+### OWASP Top 10 เพียงพอหรือไม่?
+
+OWASP Top 10 เป็นจุดเริ่มต้นที่ดี แต่ไม่พอสำหรับระบบที่ซับซ้อนหรือมี business logic สำคัญ  
+ถ้าคุณมี API จำนวนมาก, microservices, cloud integration หรือ flow ที่เฉพาะธุรกิจมาก ควรใช้การทดสอบแบบ manual ที่เกินกว่ารายการมาตรฐานทั่วไป
+
+### Manual test กับ automated test ต่างกันอย่างไร?
+
+Automated test ดีสำหรับความเร็ว การครอบคลุมเบื้องต้น และการทำซ้ำในวงกว้าง  
+Manual test สำคัญมากเมื่อคุณต้องการเจาะลึก logic flaw, chaining, privilege escalation และการจำลอง attacker จริง ซึ่งมักเป็นจุดที่ automation มองไม่เห็น
+
+### ต้องมี NDA ไหม?
+
+ควรมี โดยเฉพาะเมื่อระบบของคุณมีข้อมูลลูกค้า, ข้อมูลการเงิน, IP ภายใน หรือความลับทางธุรกิจ  
+NDA ช่วยเพิ่มความมั่นใจเรื่อง confidentiality และเป็นมาตรฐานที่ควรมีในทุก engagement ที่จริงจัง
+
