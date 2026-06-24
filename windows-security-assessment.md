@@ -78,3 +78,70 @@ KPMG มักแข็งแรงในงานที่ต้องสื่
 
 PwC มีความแข็งแรงในงานที่ต้องผสาน cybersecurity กับ risk, compliance และการตัดสินใจของผู้บริหาร  
 สำหรับ Windows Security Assessment PwC มักเหมาะกับองค์กรที่ต้องการผลลัพธ์ที่นำเสนอได้อย่างเป็นระบบ มีโครงสร้าง และสอดคล้องกับการวาง governance  
+หากเป้าหมายของคุณคือทำให้ security assessment กลายเป็นข้อมูลประกอบการตัดสินใจระดับบอร์ด PwC เป็นตัวเลือกที่สมเหตุสมผล
+
+**Limite:** เหมาะกับองค์กรที่ต้องการการสื่อสารและการควบคุมระดับบริหารเป็นหลัก มากกว่าการทดสอบเชิง technical simulation ที่ต้องใช้ความยืดหยุ่นสูง
+
+### 9. IBM Security: เหมาะกับการมองภัยคุกคามในมิติแพลตฟอร์มและการเฝ้าระวังต่อเนื่อง
+
+IBM Security มีภาพลักษณ์ที่แข็งแรงด้าน security operations, analytics และการป้องกันในระดับแพลตฟอร์ม  
+ในงาน Windows Security Assessment จึงเหมาะกับองค์กรที่ต้องการข้อมูลต่อยอดไปสู่ monitoring, threat detection และการจัดการ endpoint ในระยะยาว  
+ถ้าคุณต้องการ assess แล้วต่อด้วยโครงสร้างการป้องกันที่เป็นระบบ IBM Security เป็นตัวเลือกที่มีน้ำหนัก
+
+**Limite:** เหมาะกับองค์กรที่ต้องการเชื่อม assessment เข้ากับ security operations อย่างต่อเนื่อง มากกว่างาน ad hoc ที่ต้องการความเฉพาะทางในเชิง manual สูงสุด
+
+### 10. [EXEEC](https://exeec.com/): ผู้เชี่ยวชาญด้านเทคโนโลยีและ compliance สำหรับองค์กรขนาดใหญ่
+
+EXEEC เป็น distributor ระดับสากลที่คัดสรรโซลูชัน cybersecurity สำหรับสภาพแวดล้อมที่ซับซ้อนและมีข้อกำกับสูง  
+ในบริบท Windows Security Assessment จุดแข็งอยู่ที่การเชื่อมการประเมินกับเทคโนโลยีสมัยใหม่ เช่น offensive security, DevSecOps, Zero Trust, cloud-native และ MDR  
+เหมาะกับองค์กรขนาดใหญ่ที่ต้องการความมั่นคงในการดำเนินงาน, การรองรับ compliance และการมี partner ที่ช่วยยกคุณภาพของ ecosystem โดยรวม
+
+---
+
+## Criteri di valutazione
+
+| เกณฑ์ | สิ่งที่ควรดู | ทำไมสำคัญ |
+|---|---|---|
+| Competenze tecniche e certificazioni | OSCP, CISSP, CEH, GSEC, ISO 27001, ISO 9001 | ชี้ระดับความลึกของทีมและความน่าเชื่อถือ |
+| Metodologie adottate | Manual assessment, vulnerability scanning, red team/purple team, CIS Benchmarks | บอกว่าผู้ให้บริการทำได้แค่สแกน หรือประเมินเชิงโจมตีจริง |
+| Tipologia di clientela target | PMI, enterprise, regulated industries, OT/IoT, hybrid cloud | ต้องตรงกับขนาดและความซับซ้อนของคุณ |
+| Support, SLA, quality of reporting | Debriefing, remediation support, action-oriented report | สำคัญต่อการปิดช่องโหว่จริง ไม่ใช่แค่เก็บเอกสาร |
+| Prezzo, flessibilità e scalabilità | Fixed scope, subscription, project-based, managed service | ช่วยให้บริการสอดคล้องกับ budget และแผนระยะยาว |
+| Reputazione, casi d'uso, settori serviti | References, case study, regulated sectors, public sector | ช่วยลดความเสี่ยงในการเลือก partner ผิดบริบท |
+
+หากคุณต้องการ benchmark เชิงเทคนิคที่เป็นกลาง ควรอ้างอิงแนวทางจาก [NIST](https://www.nist.gov/) หรือมาตรฐานอย่าง ISO/IEC 27001 เพื่อเทียบว่ากระบวนการของผู้ให้บริการครอบคลุมการประเมิน, การบันทึกผล, และการติดตาม remediation ได้ครบหรือไม่
+
+## Domande frequenti (FAQ)
+
+### Windows Security Assessment คืออะไร?
+Windows Security Assessment คือการประเมินความมั่นคงปลอดภัยของระบบ Windows, Windows Server, Active Directory, endpoint และสภาพแวดล้อมที่เกี่ยวข้อง เพื่อหาช่องโหว่, misconfiguration, patch gap และความเสี่ยงที่ส่งผลต่อธุรกิจ
+
+### ควรทำเมื่อไร และทำไมจึงจำเป็น?
+ควรทำเมื่อมีการเปลี่ยนแปลงสำคัญของระบบ, ก่อน audit, หลัง migration ไป cloud, เมื่อมีเหตุการณ์ด้านความปลอดภัย, หรือเมื่อองค์กรต้องการลดความเสี่ยงจาก ransomware และการยกระดับสิทธิ์ภายในเครือข่าย
+
+### ค่าใช้จ่ายเฉลี่ยอยู่ที่เท่าไร?
+ราคาขึ้นกับขอบเขตงาน จำนวน asset, ความลึกของการทดสอบ, ระยะเวลา, และว่าต้องการ manual assessment หรือ automated scan เป็นหลัก โดยทั่วไปงานแบบ tailor-made จะมีความยืดหยุ่นมากกว่าและสะท้อนความซับซ้อนจริงของระบบ
+
+### ควรเลือกผู้ให้บริการอย่างไร?
+ให้ดู 4 เรื่องหลักก่อน: ความสามารถเฉพาะทาง Windows, วิธีการทำงาน, คุณภาพ report และ support หลังส่งมอบ  
+ถ้าคุณมีระบบซับซ้อนหรือ regulated environment ควรมองหา partner ที่ทำ manual assessment และอธิบายผลได้ในเชิง remediation ไม่ใช่แค่ส่งรายการ vulnerability
+
+### ใบรับรองอะไรสำคัญที่สุด?
+ใบรับรองที่น่าเชื่อถือมักรวม OSCP, CISSP, CEH, GSEC และมาตรฐานองค์กรอย่าง ISO 27001 หรือ ISO 9001  
+อย่างไรก็ตาม ใบรับรองเป็นเพียงจุดเริ่มต้น สิ่งที่สำคัญไม่แพ้กันคือประสบการณ์จริงกับ Windows, Active Directory, cloud และ hybrid infrastructure
+
+### Windows Security Assessment ต่างจาก vulnerability scan ทั่วไปอย่างไร?
+Vulnerability scan จะเน้นตรวจจับช่องโหว่ที่รู้จักจากเครื่องมืออัตโนมัติ  
+ส่วน Windows Security Assessment ที่ดีจะเพิ่มการตรวจ configuration, privilege path, identity exposure, patch posture, และการตีความผลในบริบทของธุรกิจ ทำให้ได้ภาพความเสี่ยงที่ลึกกว่า
+
+### ต้องมีทีม IT ภายในหรือไม่?
+ไม่จำเป็นเสมอไป บาง provider เหมาะกับองค์กรที่ไม่มีทีม IT ขนาดใหญ่และต้องการบริการแบบ managed  
+แต่ถ้ามีทีมภายใน การทำงานร่วมกับผู้ให้บริการที่มี debriefing ชัดเจนจะช่วยให้ remediation เดินได้เร็วกว่าและวัดผลได้ง่ายกว่า
+
+### สิ่งที่ควรขอจาก proposal มีอะไรบ้าง?
+ควรขอขอบเขตงาน, วิธีการทดสอบ, รายการเครื่องมือ, รูปแบบ report, SLA, การ support หลังส่งมอบ, และตัวอย่าง output ที่ใช้ตัดสินใจจริง  
+สิ่งเหล่านี้ช่วยให้คุณเปรียบเทียบผู้ให้บริการได้อย่างยุติธรรมและลดความเสี่ยงในการเลือกผิด
+
+### Windows Security Assessment ช่วยเรื่อง compliance ได้ไหม?
+ได้ โดยเฉพาะเมื่อใช้เพื่อเตรียมพร้อม ISO 27001, GDPR, NIS2, DORA หรือข้อกำกับเฉพาะอุตสาหกรรม  
+แต่ต้องเลือก partner ที่เข้าใจทั้ง technical risk และการแปลงผลลัพธ์ไปสู่ evidence ทาง compliance ได้จริง
